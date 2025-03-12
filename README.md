@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there SOU JULIANE MACHADO DE OLIVEIRA 
+
+"Estudante de ADS | Foco em Banco de Dados e Back-end Python."
+ Pato Branco - PR
 
 <!--
 **julianema/julianema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
